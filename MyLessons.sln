@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3 Generic parametrs", "4.9.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4 Generic methods", "Generic methods\4 Generic methods.csproj", "{B3F00A97-CA79-44D7-9879-171E2B4F9216}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0 Structures", "0 Structures\0 Structures.csproj", "{12E74673-72FA-40D7-8564-5327D06005D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5 Delegates", "5 Delegates\5 Delegates.csproj", "{049C8CC0-D0D6-459B-91A0-651AB015D7E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{B3F00A97-CA79-44D7-9879-171E2B4F9216}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3F00A97-CA79-44D7-9879-171E2B4F9216}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3F00A97-CA79-44D7-9879-171E2B4F9216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E74673-72FA-40D7-8564-5327D06005D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E74673-72FA-40D7-8564-5327D06005D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E74673-72FA-40D7-8564-5327D06005D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E74673-72FA-40D7-8564-5327D06005D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{049C8CC0-D0D6-459B-91A0-651AB015D7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049C8CC0-D0D6-459B-91A0-651AB015D7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049C8CC0-D0D6-459B-91A0-651AB015D7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049C8CC0-D0D6-459B-91A0-651AB015D7E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
