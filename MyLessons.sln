@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.9.1 Collectins and generic", "MyLessons\4.9.1 Collectins and generic.csproj", "{37BD8860-96E0-4852-AD8A-1CD62CA066CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1 Collectins and generic", "MyLessons\1 Collectins and generic.csproj", "{37BD8860-96E0-4852-AD8A-1CD62CA066CD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.9.2 Generic", "4.9 Generic\4.9.2 Generic.csproj", "{B486C02C-4C23-4554-A871-BC69B7619DE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2 Generic", "4.9 Generic\2 Generic.csproj", "{B486C02C-4C23-4554-A871-BC69B7619DE6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.9.3 Generic parametrs", "4.9.3 Generic parametrs\4.9.3 Generic parametrs.csproj", "{4D054722-FBC5-4113-ADBA-40FB7A3CC7AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3 Generic parametrs", "4.9.3 Generic parametrs\3 Generic parametrs.csproj", "{4D054722-FBC5-4113-ADBA-40FB7A3CC7AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic methods", "Generic methods\Generic methods.csproj", "{B3F00A97-CA79-44D7-9879-171E2B4F9216}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4 Generic methods", "Generic methods\4 Generic methods.csproj", "{B3F00A97-CA79-44D7-9879-171E2B4F9216}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
