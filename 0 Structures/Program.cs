@@ -10,12 +10,10 @@ namespace _0_Structures
      *          
      *          
      */
-
     struct User
     {
         public string name;
         public int age;
-
 
         public void ShowInfo()
         {

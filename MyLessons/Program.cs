@@ -42,7 +42,6 @@ namespace MyLessons
     public static class MyListArray                        // Статик класс. Не умеет реализацию интерфейсов и наследования
     {
 
-
     }
     class Program
     {

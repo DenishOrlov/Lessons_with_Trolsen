@@ -39,6 +39,6 @@ namespace _5_Delegates
         {
             Console.WriteLine("Good evening");
         }
-
+        
     }
 }

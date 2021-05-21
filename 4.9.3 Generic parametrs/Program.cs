@@ -11,7 +11,6 @@ namespace _4._9._3_Generic_parametrs
     {
         int CompareTo(T obj);                   // Обьявляем метод. Тип параметра - T  
     }
-
     public class Car : IComparable<Car>
     {
         int IComparable<Car>.CompareTo(Car car) // Делаем явную реализацию интерфейса
