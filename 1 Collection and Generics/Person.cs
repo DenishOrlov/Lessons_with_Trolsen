@@ -13,7 +13,7 @@ namespace Collectins_and_generic
         {
             i++;
         }
-        
+      
         public void Print()
         {
             Console.WriteLine("Exemle: "+i);

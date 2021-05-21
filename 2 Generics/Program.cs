@@ -17,6 +17,7 @@ namespace _4._9_Generic
         public string FirstName { get; }
         public string LastName { get; }
         public int Age { get; }
+
         public Person()
         {
 

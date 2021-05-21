@@ -27,6 +27,7 @@ namespace Generic_methods
                     age = value;                                                        // Запишит значение
             }
         }
+
         public void SetPersonValues(string firstName, string lastName, Byte age)
         {
             FirstName = firstName;
